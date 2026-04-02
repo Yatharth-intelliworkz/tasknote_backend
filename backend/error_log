@@ -1,0 +1,234 @@
+[13-Apr-2024 12:09:16 asia/kolkata] PHP Fatal error:  Cannot use [] for reading in /home3/ananytpl/public_html/tasknote/demo/app/Events/GroupMessage.php on line 20
+[16-May-2024 11:35:55 asia/kolkata] PHP Fatal error:  Cannot redeclare App\Models\Task::user() in /home2/datanity/app.tasknote.in/backend/app/Models/Task.php on line 69
+[20-May-2024 11:57:16 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 11:57:16 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 11:57:26 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 11:57:26 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 11:57:49 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 11:57:49 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 11:58:01 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 11:58:01 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 11:58:30 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 11:58:30 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 11:59:00 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 12:02:35 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 12:02:35 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 12:03:41 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 12:03:41 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 12:03:49 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 12:03:49 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 12:03:50 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 12:03:59 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 12:03:59 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 12:03:59 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 12:04:11 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 12:04:11 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 12:04:30 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 12:04:30 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 12:06:43 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 12:06:43 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1878
+[20-May-2024 12:11:14 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1879
+[20-May-2024 12:11:14 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1879
+[20-May-2024 12:11:55 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1879
+[20-May-2024 12:11:55 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1879
+[20-May-2024 12:23:57 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1879
+[20-May-2024 12:23:57 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1879
+[20-May-2024 12:24:07 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1879
+[20-May-2024 12:24:39 asia/kolkata] PHP Fatal error:  Declaration of App\Http\Controllers\API\TaskController::webPushNotification($webNotificationPayload) must be compatible with App\Http\Controllers\Controller::webPushNotification() in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 1879
+[05-Jun-2024 16:52:02 asia/kolkata] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Log as Log because the name is already in use in /home2/datanity/app.tasknote.in/backend/app/Console/Commands/CallControllerFunction.php on line 9
+[05-Jun-2024 16:53:02 asia/kolkata] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Log as Log because the name is already in use in /home2/datanity/app.tasknote.in/backend/app/Console/Commands/CallControllerFunction.php on line 9
+[22-Jun-2024 14:55:04 asia/kolkata] PHP Fatal error:  Can't use function return value in write context in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/ProjectController.php on line 2101
+[22-Jun-2024 14:55:04 asia/kolkata] PHP Fatal error:  Can't use function return value in write context in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/ProjectController.php on line 2101
+[22-Jun-2024 14:55:04 asia/kolkata] PHP Fatal error:  Can't use function return value in write context in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/ProjectController.php on line 2101
+[22-Jun-2024 14:55:04 asia/kolkata] PHP Fatal error:  Can't use function return value in write context in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/ProjectController.php on line 2101
+[22-Jun-2024 14:55:04 asia/kolkata] PHP Fatal error:  Can't use function return value in write context in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/ProjectController.php on line 2101
+[22-Jun-2024 14:55:14 asia/kolkata] PHP Fatal error:  Can't use function return value in write context in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/ProjectController.php on line 2101
+[22-Jun-2024 14:55:14 asia/kolkata] PHP Fatal error:  Can't use function return value in write context in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/ProjectController.php on line 2101
+[22-Jun-2024 14:55:14 asia/kolkata] PHP Fatal error:  Can't use function return value in write context in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/ProjectController.php on line 2101
+[22-Jun-2024 14:55:14 asia/kolkata] PHP Fatal error:  Can't use function return value in write context in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/ProjectController.php on line 2101
+[22-Jun-2024 14:55:14 asia/kolkata] PHP Fatal error:  Can't use function return value in write context in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/ProjectController.php on line 2101
+[11-Sep-2024 04:44:22 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:32 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:32 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:32 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:32 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:33 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:33 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:33 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:33 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:33 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:33 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:33 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:33 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:33 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:33 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:33 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:33 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:54 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 04:44:56 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../react/promise/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('ad155f8f1cf0d41...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 05:09:23 America/Chicago] PHP Warning:  require(/home2/datanity/app.tasknote.in/backend/vendor/composer/../google/apiclient-services/autoload.php): Failed to open stream: No such file or directory in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 05:09:23 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../google/apiclient-services/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('1f87db08236948d...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 05:10:01 America/Chicago] PHP Warning:  require(/home2/datanity/app.tasknote.in/backend/vendor/composer/../google/apiclient-services/autoload.php): Failed to open stream: No such file or directory in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 05:10:01 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../google/apiclient-services/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('1f87db08236948d...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 05:11:04 America/Chicago] PHP Warning:  require(/home2/datanity/app.tasknote.in/backend/vendor/composer/../google/apiclient-services/autoload.php): Failed to open stream: No such file or directory in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[11-Sep-2024 05:11:04 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/datanity/app.tasknote.in/backend/vendor/composer/../google/apiclient-services/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php(45): {closure}('1f87db08236948d...', '/home2/datanity...')
+#1 /home2/datanity/app.tasknote.in/backend/vendor/autoload.php(25): ComposerAutoloaderInitaa322c53454393ed775cfe4807d54a50::getLoader()
+#2 /home2/datanity/app.tasknote.in/backend/public/index.php(34): require('/home2/datanity...')
+#3 /home2/datanity/app.tasknote.in/backend/index.php(14): require_once('/home2/datanity...')
+#4 {main}
+  thrown in /home2/datanity/app.tasknote.in/backend/vendor/composer/autoload_real.php on line 41
+[26-Sep-2024 15:28:39 asia/kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 569
+[26-Sep-2024 15:28:39 asia/kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 569
+[26-Sep-2024 15:29:18 asia/kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 569
+[26-Sep-2024 15:29:18 asia/kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 569
+[09-Nov-2024 14:18:31 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 851
+[09-Nov-2024 14:19:19 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home2/datanity/app.tasknote.in/backend/app/Http/Controllers/API/TaskController.php on line 851
