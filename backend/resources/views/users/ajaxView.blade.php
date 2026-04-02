@@ -5,7 +5,7 @@
         <!-- Add the bg color to the header using any of the bg-* classes -->
         <div class="widget-user-header bg-warning">
           <div class="widget-user-image">
-            <img class="img-circle elevation-2" src="{{ asset('assets/dist/img/user7-128x128.jpg') }}" alt="User Avatar">
+            <img class="img-circle elevation-2" src="{{ asset('public/assets/dist/img/user7-128x128.jpg') }}" alt="User Avatar">
           </div>
           <!-- /.widget-user-image -->
           <h3 class="widget-user-username">{{ $users->name }}</h3>

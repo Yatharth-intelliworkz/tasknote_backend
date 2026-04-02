@@ -45,13 +45,12 @@ Route::group(['middleware' => ['auth']], function() {
     // project
     Route::resource('project', ProjectController::class);
     Route::get('/team', [ProjectController::class, 'teamList'])->name('team');
-    // Route::get('/team/create', [ProjectController::class, 'teamCreate'])->name('teamCreate');
-    // Route::post('/team/store', [ProjectController::class, 'teamStore'])->name('teamStore');
-    // Route::get('/team/edit/{id}', [ProjectController::class, 'teamEdit'])->name('teamEdit');
-    // Route::post('/team/update/{id}', [ProjectController::class, 'teamUpdate'])->name('teamUpdate');
-    // Route::get('/team/destroy/{id}', [ProjectController::class, 'teamDestroy'])->name('teamDestroy');
-    // Route::get('team/getMembersData/{id}', 'App\Http\Controllers\ProjectController@getMembersData')->name('getMembersData');
-    // Route::get('team/edit/getMembersData/{id}', 'App\Http\Controllers\ProjectController@getMembersData')->name('getMembersData');
+    Route::get('/team/create', [ProjectController::class, 'teamCreate'])->name('teamCreate');
+    Route::post('/team/store', [ProjectController::class, 'teamStore'])->name('teamStore');
+    Route::get('/team/edit/{id}', [ProjectController::class, 'teamEdit'])->name('teamEdit');
+    Route::post('/team/update/{id}', [ProjectController::class, 'teamUpdate'])->name('teamUpdate');
+    Route::get('/team/destroy/{id}', [ProjectController::class, 'teamDestroy'])->name('teamDestroy');
+    Route::get('team/getMembersData/{id}', 'App\Http\Controllers\ProjectController@getMembersData')->name('getMembersData');
 
     // task
     Route::resource('task', TaskController::class);

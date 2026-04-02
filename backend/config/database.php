@@ -48,9 +48,9 @@ return [
             'url' => env('DATABASE_URL'),
             'host' => 'localhost',
             'port' => '3306',
-            'database' => 'datanity_tasknote',
-            'username' => 'datanity_tasknote',
-            'password' => 'TasKNotED@Ti#n$24',
+            'database' => 'tasknote',
+            'username' => 'root',
+            'password' => '',
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',
@@ -78,7 +78,8 @@ return [
             'search_path' => 'public',
             'sslmode' => 'prefer',
         ],
-
+        // taskNote@gmail.com
+        // Tasknote@123
         'sqlsrv' => [
             'driver' => 'sqlsrv',
             'url' => env('DATABASE_URL'),

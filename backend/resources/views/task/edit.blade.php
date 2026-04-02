@@ -335,7 +335,7 @@
                         @else
                             <div class="col-sm-2" id="{{ $val->id }}_imgFullDiv">
                                 <img style="height: 173px;"
-                                    src="{{ asset('public/images/all/'. $val->file) }}"
+                                    src="{{ asset('images/all/'. $val->file) }}"
                                     class="img-fluid w-100 shadow-1-strong rounded mb-4"
                                     alt="Boat on Calm Water"
                                 />
